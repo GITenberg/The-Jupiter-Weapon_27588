@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9500
     wikipedia: http://en.wikipedia.org/wiki/Charles_L._Fontenay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27588#The-Jupiter-Weapon
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-12-22'
 gutenberg_type: Text
